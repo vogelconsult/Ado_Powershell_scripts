@@ -1,0 +1,18 @@
+# Generated Excel and CSV reports
+TestReport_*.xlsx
+TestResults.csv
+
+# Temporary files
+*.tmp
+*.bak
+~$*.xlsx
+
+# Secrets and local settings
+.env
+*.secret
+*.secrets
+local.config.ps1
+
+# Editor files
+.vscode/
+.idea/
