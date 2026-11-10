@@ -136,7 +136,7 @@ The initial distribution is configured for the intended project. Support for alt
 Navigate to the script folder:
 
 ```powershell
-cd C:\ADO_API\ADO_API_Code
+cd C:\ADO_API\Ado_Powershell_scripts
 ```
 
 Start the report:
